@@ -3,24 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project Traceback - README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            padding: 20px;
-        }
-        h1 {
-            text-align: center;
-        }
-        h2 {
-            margin-top: 30px;
-        }
-        p {
-            margin-bottom: 20px;
-        }
-    </style>
 </head>
 <body>
     <h1>Project Traceback - README</h1>
